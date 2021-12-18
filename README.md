@@ -1,10 +1,4 @@
-<div align="center" id="top"> 
-  <img src="./.github/challenge-html.png" alt="Desafio Html" />
 
-&#xa0;
-
-  <!-- <a href="https://desafiohtml.netlify.app">Demo</a> -->
-</div>
 
 <h1 align="center">Challenge HTML</h1>
 
@@ -43,6 +37,15 @@
 </p>
 
 <br>
+
+<div align="center" id="top"> 
+  <img width="500px" src="./.github/challenge-html.png" alt="Desafio Html" />
+
+&#xa0;
+
+  <!-- <a href="https://desafiohtml.netlify.app">Demo</a> -->
+</div>
+
 
 ## :dart: About
 
